@@ -24,7 +24,7 @@
   "homepage": "https://github.com/gabriellsf/tammico#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "ws": "^7.1.2"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@types/express": "^4.17.1",
